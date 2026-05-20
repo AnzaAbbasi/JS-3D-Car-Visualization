@@ -94,12 +94,7 @@ npm run preview
 
 The image is available on Docker Hub:
 
-```bash
-docker pull omid2831/omid-threejs-app
-docker run -p 3000:3000 omid2831/omid-threejs-app
-```
 
-🔗 **Docker Hub:** [omid2831/omid-threejs-app](https://hub.docker.com/r/omid2831/omid-threejs-app)
 
 ### Build Locally
 
